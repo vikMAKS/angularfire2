@@ -1,4 +1,4 @@
-# To publish angularfire2 to npm, run the following steps
+# To publish angularfire2 to npm, run the following few steps
 # Edit the version in package.json
 # Run `npm run changelog`` to generate the new changelog (and check the changelog)
 # git commit the changelog and package.json changes
